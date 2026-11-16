@@ -403,6 +403,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Video
 
+- [Bonega](https://bonega.ai) - AI video generator that turns a text prompt, a photo or a clip into video: start from a 5-second HD clip and extend it take by take to any length, with no watermark.
 - [Imagera](https://imagera.ai) - Browser studio that runs many AI image and video models side by side, plus voice and music; Character IDs keep a face or product the same across shots.
 - [Loom](https://loom.com) - Seamless screen, mic, and camera recording for Chrome
 - [OpenCreator](https://opencreator.ai) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
